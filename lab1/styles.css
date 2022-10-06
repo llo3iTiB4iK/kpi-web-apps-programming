@@ -75,7 +75,7 @@ h1{
 	background-color: #d6c694;
 }
 #p3{
-	flex: 20%;
+	max-height: max-content;
 	border-bottom: 2px solid black;
 	background-color: #cbd694;
 }
@@ -90,7 +90,7 @@ h1{
 }
 #p6{
 	background-color: #cbd694;
-	flex: 25%;
+	max-height: max-content;
 }
 #p7{
 	width: 60%;
