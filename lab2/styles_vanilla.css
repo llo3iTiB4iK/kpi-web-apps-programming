@@ -91,7 +91,9 @@ table{
 	background-color: #d6c694;
 }
 #p6{
-	background-color: #cbd694;
+	background-color: #cbd694;	
+	height: 100px;
+	max-height: max-content;
 }
 #p7{
 	float: left;
